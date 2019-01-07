@@ -14,4 +14,5 @@ Lecture Four: *DONE*
 
 Lecture Five: *DONE* 
 
+Lecture Six: *DONE* 
 
