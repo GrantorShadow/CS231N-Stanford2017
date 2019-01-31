@@ -16,3 +16,6 @@ Lecture Five: *DONE*
 
 Lecture Six: *DONE* 
 
+Assignment 1 : *DONE*
+
+Assignment 2 : *DONE*
